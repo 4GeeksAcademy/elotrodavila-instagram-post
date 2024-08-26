@@ -1,0 +1,51 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.post {
+    justify-content: center;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.left-header {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+p {
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.fa-regular, .fa-solid {
+    font-size: 30px;
+    padding: 5px;
+}
+
+.post-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.left-icons {
+    display: flex;
+}
+
+.post-icons {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.post-text {
+    padding: 10px;
+}
